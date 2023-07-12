@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finance-management-system-react/static/css/main.b10ce008.css",
+    "main.js": "/finance-management-system-react/static/js/main.5470a4c2.js",
+    "static/js/787.d25e261d.chunk.js": "/finance-management-system-react/static/js/787.d25e261d.chunk.js",
+    "static/media/logo.svg": "/finance-management-system-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/finance-management-system-react/index.html",
+    "main.b10ce008.css.map": "/finance-management-system-react/static/css/main.b10ce008.css.map",
+    "main.5470a4c2.js.map": "/finance-management-system-react/static/js/main.5470a4c2.js.map",
+    "787.d25e261d.chunk.js.map": "/finance-management-system-react/static/js/787.d25e261d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.5470a4c2.js"
+  ]
+}
